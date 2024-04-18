@@ -65,7 +65,7 @@ def second():
     return render_template('task2.html')
 
 
-@app.route('https://n1ckybtw.github.io/tasks')
+@app.route('https://n1ckybtw.github.io/')
 def task():
     return render_template('tasks.html')
 
