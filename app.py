@@ -40,7 +40,7 @@ def defeat():
     return render_template('defeat.html')
 
 
-@app.route('https://n1ckybtw.github.io/1')
+@app.route('https://n1ckybtw.github.io/task1')
 def first():
     return render_template('task1.html')
 
@@ -60,7 +60,7 @@ def firth():
     return render_template('task5.html')
 
 
-@app.route('https://n1ckybtw.github.io/2')
+@app.route('https://n1ckybtw.github.io/task2')
 def second():
     return render_template('task2.html')
 
