@@ -1,0 +1,6 @@
+<input type="text" class="resized">
+<style type="text/css">
+.resized {
+width: 200px;
+height: 50px;
+}
